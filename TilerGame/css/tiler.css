@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Helvetica;
+    background-color: rgb(20,20,20);
+    color: rgb(255,255,255);
+}
+
+h1 {
+    font-size: 9cqb;
+    font-family: Courier New;
+    margin-bottom: 0;
+}
+
+p {
+    display: inline-block;
+    text-align: left;
+    font-size: 3em;
+    margin: 3em;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(20,20,20);
+    border: 2px solid rgb(255,255,255);
+}
